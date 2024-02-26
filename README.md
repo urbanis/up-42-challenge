@@ -33,8 +33,8 @@ The challenge involves:
 
 ## Results
 
-12 Scenes from 2 Catalogs
-1.526,04 € of TotalCost
-152.604 Credits
-62.88 % of coverage
+- 12 Scenes from 2 Catalogs
+- 1.526,04 € of TotalCost
+- 152.604 Credits
+- 62.88 % of coverage
 
