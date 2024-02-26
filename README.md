@@ -26,8 +26,10 @@ The challenge involves:
 
 - [up42 Python SDK](https://github.com/up42/up42-py)
 - [up42 SDK Documentation](https://sdk.up42.com/)
+- [up42 pricing](https://up42.com/pricing)
 - [Pleiades Dataset Documentation](https://docs.up42.com/data/datasets/pleiades)
 - [Pleiades Neo Dataset Documentation](https://docs.up42.com/data/datasets/pleiades-neo)
+
 
 ## Results
 
