@@ -1,5 +1,7 @@
-# up-42-challenge
-
+# UP42 Challenge
+<p align="center">
+  <img src="./quicklooks/quicklook_efefde7e-966e-4a67-8b1d-c21df36aa948.jpg" alt="Project Image">
+</p>
 ## Objectives
 
 The objectives of this project are as follows:
