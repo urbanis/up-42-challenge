@@ -1,21 +1,15 @@
 # UP42 Challenge
 <p align="center">
-  <img src="./quicklooks/quicklook_efefde7e-966e-4a67-8b1d-c21df36aa948.jpg" alt="Project Image">
+  <img src="readme.jpg" alt="Project Image">
 </p>
+
 ## Objectives
+Deliver a presentation for adquiring Satellite Imagery for road quality assestment using UP42 platform and SDK.
 
-The objectives of this project are as follows:
 
-- To explore available catalogs
-- To retrieve catalog data
-- To export and plot search results
-- To estimate credits
-- To compute coverage for areas not covered by catalog data
-- To provide suggestions for areas not covered by API-integrated catalog data
+## Business Definition
 
-## Definition
-
-Bruno Brazil mentioned their algorithm works best on data with a resolution of 50cm or less. The preference is for 30cm data where possible and filling in with 50cm when needed. They are interested in finding data from May 2023 to the end of September 2023. They would like us to find all available catalog data over the shared AOI called `road_alignment.geojson` and are interested in a corridor that is 500m wide (250m buffer).
+The business mentioned their algorithm for road quality assestment works best on data with a resolution of 50cm or less. The preference is for 30cm data where possible and filling in with 50cm when needed. They are interested in finding data from May 2023 to the end of September 2023. They would like us to find all available catalog data over the shared AOI called `road_alignment.geojson` and are interested in a corridor that is 500m wide (250m buffer).
 
 ## Challenge
 
