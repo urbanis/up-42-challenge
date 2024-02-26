@@ -1,6 +1,6 @@
 # UP42 Challenge
 <p align="center">
-  <img src="readme.png" alt="Project Image">
+  <img src="./resources/readme.png" alt="Project Image">
 </p>
 
 ## Objectives
